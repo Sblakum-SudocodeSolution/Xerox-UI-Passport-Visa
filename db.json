@@ -1,0 +1,26 @@
+{
+  "passport": [
+    {
+      "passportNumber": "1287645",
+      "name": "Sidhdharth Lakum",
+      "dob": "2015-08-15",
+      "birthPlace": "Vallabhipur",
+      "issuePlace": "Bhavnagar",
+      "nationality": "Indian",
+      "doi": "2022-10-21",
+      "doe": "2027-10-22",
+      "id": 1
+    }
+  ],
+  "visa": [
+    {
+      "visaNumber": "43215678",
+      "passportNumber": "12376545",
+      "name": "Sidhdharth Lakum",
+      "dob": "2002-08-15",
+      "visaDate": "2027-10-31",
+      "nationality": "Indian",
+      "id": 1
+    }
+  ]
+}
