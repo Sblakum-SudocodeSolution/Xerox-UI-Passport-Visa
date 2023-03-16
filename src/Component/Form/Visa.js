@@ -152,7 +152,6 @@ export default function Visa() {
                 <Row>
                   <Col className="mt-2">
                     <Button
-                      
                       variant="secondary"
                       type="submit"
                       onClick={() => setStep(1)}
